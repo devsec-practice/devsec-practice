@@ -1,6 +1,6 @@
 #!/bin/bash
 
-firstvariable=vijaykumar
-lastvariable=baikadi
+firstvariable=$1
+lastvariable=$2
 
 echo $firstvariable $lastvariable
